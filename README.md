@@ -1,2 +1,1 @@
-# sql_projects
-SQL data projects.
+# Structured Query Language data projects
